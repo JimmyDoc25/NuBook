@@ -1,7 +1,7 @@
-# Project FullProof
+# Project NuBook
 
 ## Overview
-Welcome to **Project FullProof**! This project aims to create a modern, free, and comprehensive library of rigorous mathematical proofs. Our mission is to make high-quality, well-documented mathematical resources accessible to students, educators, researchers, and enthusiasts worldwide.
+Welcome to **NuBook**! This project aims to create a modern, free, and comprehensive library of rigorous mathematical proofs. Our mission is to make high-quality, well-documented mathematical resources accessible to students, educators, researchers, and enthusiasts worldwide.
 
 ## Objectives
 - **Centralized Resource**: Build an open-source repository of mathematical proofs covering various fields, including algebra, calculus, geometry, number theory, and more.
@@ -17,7 +17,7 @@ Welcome to **Project FullProof**! This project aims to create a modern, free, an
 5. [Contact](#contact)
 
 ## Getting Started
-Project FullProof is hosted on [GitHub](#) (replace with actual repository link). To explore the library:
+Project NuBook is hosted on [GitHub](#) (replace with actual repository link). To explore the library:
 - Browse the proof categories to find topics of interest.
 - Download or view proofs in markdown or PDF format.
 - Contribute by submitting new proofs or improving existing ones (see [Contributing](#contributing)).
@@ -57,4 +57,4 @@ For questions, suggestions, or feedback, please reach out via:
 - **Email**: [project.fullproof@example.com](#) (replace with actual email).
 - **Community Forum**: Join our [discussion forum](#) (replace with actual link) to connect with other contributors.
 
-Thank you for being a part of Project FullProof! Let's build a definitive resource for mathematical proofs together.
+Thank you for being a part of Project NuBook! Let's build a definitive resource for mathematical proofs together.
